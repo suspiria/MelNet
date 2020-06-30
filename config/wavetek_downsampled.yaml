@@ -11,7 +11,7 @@ data:
 ---
 audio:
   sr: 22050
-  duration: 14.0
+  duration: 14.4
   n_mels: 256
   hop_length: 256
   win_length: 1536
