@@ -1,6 +1,6 @@
 librosa==0.7.2
 matplotlib
-numpy
+numpy==1.19.0
 audiosegment
 pyyaml
 tensorboard
